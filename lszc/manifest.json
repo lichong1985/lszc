@@ -1,0 +1,27 @@
+{
+	"initial": [
+		"libs/modules/egret/egret.js",
+		"libs/modules/egret/egret.web.js",
+		"libs/modules/eui/eui.js",
+		"libs/modules/assetsmanager/assetsmanager.js",
+		"libs/modules/tween/tween.js",
+		"libs/modules/game/game.js",
+		"libs/modules/dragonBones/dragonBones.js",
+		"libs/modules/socket/socket.js",
+		"libs/modules/experimental/experimental.js",
+		"libs/modules/promise/promise.js",
+		"libs/modules/physics/physics.js"
+	],
+	"game": [
+		"bin-debug/world/p2s/P2SpriteBase.js",
+		"bin-debug/AssetAdapter.js",
+		"bin-debug/LoadingUI.js",
+		"bin-debug/Main.js",
+		"bin-debug/Platform.js",
+		"bin-debug/ThemeAdapter.js",
+		"bin-debug/tools/EgretAndP2PointTools.js",
+		"bin-debug/world/asjad/CaiHongQiao.js",
+		"bin-debug/world/p2s/ls/LeiShenBody.js",
+		"bin-debug/world/p2s/sdPlane/SajdPlaneBody.js"
+	]
+}
