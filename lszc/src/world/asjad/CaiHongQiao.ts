@@ -62,7 +62,7 @@ class CaiHongQiao extends egret.DisplayObjectContainer {
 		this.createLS(egret.Point.create(this.width * 0.3, this.height * 0.2));
 		// this.createManster(egret.Point.create(this.width * 0.3, this.height * 0.2));
 
-		egret.log("DDDDDDDDDDDDDDDDDDDDDDD");
+		
 		//鼠标点击
         this.addEventListener(egret.TouchEvent.TOUCH_BEGIN, this.mouseDown, this);
         //鼠标移动
